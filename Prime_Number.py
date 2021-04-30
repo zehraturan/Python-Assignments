@@ -5,7 +5,7 @@ if number > 1 :
     elif number % 2 :
         i = 2
         control = True
-        while i < number :
+        while i < number / 2 :
             if (number / i).is_integer() :
                 print (f"{number} is not a prime number")
                 control = False
