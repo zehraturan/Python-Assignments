@@ -1,5 +1,5 @@
 number = int(input("Enter the number: "))
-if number > 0 :
+if number > 1 :
     if number == 2 :
         print (f"{number} is a prime number")
     elif number % 2 :
