@@ -36,3 +36,13 @@ Write a Python program that;
 takes a positive integer number from the user,
 checks the entered number if it is Armstrong,
 consider the negative, float and any entries other than numeric values then display a warning message to the user.
+
+# Fibonacci_Number.py
+
+
+Task : Create a list consisting of Fibonacci numbers from 1 to 55 using control flow statements.
+
+The desired output is like :
+
+fibonacci →  [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
+
