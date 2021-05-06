@@ -39,7 +39,6 @@ consider the negative, float and any entries other than numeric values then disp
 
 # Fibonacci_Number.py
 
-
 Task : Create a list consisting of Fibonacci numbers from 1 to 55 using control flow statements.
 
 The desired output is like :
@@ -57,3 +56,14 @@ The desired output for n=100 :
 [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59,
 61, 67, 71, 73, 79, 83, 89, 97]
 
+# Fizz_Buzz_Numbers.py
+
+Task : Print the Fizz Buzz numbers.
+
+Fizz Buzz is a famous code challenge used in interviews to test basic programming skills. It's time to write your own implementation.
+Print numbers from 1 to 100 inclusively following these instructions:
+if a number is multiple of 3, print "Fizz" instead of this number,
+if a number is multiple of 5, print "Buzz" instead of this number,
+for numbers that are multiples of both 3 and 5, print "FizzBuzz",
+print the rest of the numbers unchanged.
+Output each value on a separate line.
